@@ -6,5 +6,5 @@ My portofolio
 * Using Python to estimate distribution of concentration of oleoresin at various times and positions in ginger and solvent
 * Mathematical modeling is carried out for the initial planning of the research
 
-
+![](https://github.com/bahategar/Prasimulation-For-Oleorecin-Extraction-From-Ginger/blob/main/Figure%201.png)
 
