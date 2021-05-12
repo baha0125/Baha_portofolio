@@ -10,3 +10,10 @@ My portofolio
 
 ![](https://github.com/bahategar/Prasimulation-For-Oleorecin-Extraction-From-Ginger/blob/main/Figure%202.png)
 
+# [Project 2 : Mathemical Modeling for Simulation]()
+* Built model of mathematic for simulation of fluid flow in pipe with heater on the surface of pipe
+* Using Python to estimate distribution of temperature of fluid at various position in axial and radial
+
+
+![](https://github.com/bahategar/Simulation_fluid-flow-with-heater-on-the-surface/blob/main/Figure%202.png)
+
