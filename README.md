@@ -1,5 +1,8 @@
 # Baha_portofolio
 My portofolio
 
-#Project 1, Modeling Final Project Mathematical Modeling Class Chemical Engineering UGM
-* Optimizitation and Fitting Mathematical Model Adsorption Phenomena based on experiment data
+#Project 1, Mathematical modeling of oleoresin extraction from ginger
+* This experiment aims to extract oleoresin from ginger with reactive solid-liquid extraction process
+* The data obtained from literature
+* Using Python to estimate distribution of concentration of oleoresin at various times and positions
+
