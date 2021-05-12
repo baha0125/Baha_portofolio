@@ -2,7 +2,8 @@
 My portofolio
 
 #Project 1, Mathematical modeling of oleoresin extraction from ginger
-* This experiment aims to extract oleoresin from ginger with reactive solid-liquid extraction process
-* The data obtained from literature
-* Using Python to estimate distribution of concentration of oleoresin at various times and positions
+* The modeling aims to extract oleoresin from ginger with reactive solid-liquid extraction process
+* Using Python to estimate distribution of concentration of oleoresin at various times and positions in ginger and solvent
+* Mathematical modeling is carried out for the initial planning of the research
+
 
