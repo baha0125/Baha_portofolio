@@ -6,9 +6,9 @@ My portofolio
 * Using Python to estimate distribution of concentration of oleoresin at various times and positions in ginger and solvent
 * Mathematical modeling is carried out for the initial planning of the research
 
-![](https://github.com/bahategar/Prasimulation-For-Oleorecin-Extraction-From-Ginger/blob/main/Figure%201.png)
+![alt text](https://github.com/bahategar/Prasimulation-For-Oleorecin-Extraction-From-Ginger/blob/main/Figure%201.png)
 
-![](https://github.com/bahategar/Prasimulation-For-Oleorecin-Extraction-From-Ginger/blob/main/Figure%202.png)
+![alt text](https://github.com/bahategar/Prasimulation-For-Oleorecin-Extraction-From-Ginger/blob/main/Figure%202.png)
 
 # [Project 2 : Mathemical Modeling for Simulation]()
 * Built model of mathematic for simulation of fluid flow in pipe with heater on the surface of pipe
