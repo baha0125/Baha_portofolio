@@ -8,7 +8,7 @@ My portofolio
 * Finfing practices whose costs disproportionately originate from rarely prescribed items
 * Determine top selling product
 
-  <img src="https://github.com/bahategar/Baha_portofolio/blob/main/images/P1-fig1.png" alt="">
+  <img src="https://github.com/bahategar/Baha_portofolio/blob/main/images/P1-fig1.PNG" alt="">
 
 
 # Project 2: 
