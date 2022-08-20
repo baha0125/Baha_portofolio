@@ -17,6 +17,7 @@ My portofolio
 <img src="https://github.com/bahategar/Baha_portofolio/blob/main/images/P1-fig2.png?raw=true">
 
 
+
 # [Project 2: Customer Segmentation with RFM Analysis](https://github.com/bahategar/DigitalSkola-RFMAnalysis-OnlineRetail-)
 * Wrangling dataset that contain more than 540,000 entries
 * Creating weekly purhcasement trend
@@ -27,20 +28,20 @@ My portofolio
 
 <img src="https://github.com/bahategar/Baha_portofolio/blob/main/images/P2-fig1.png?raw=true">
 
-**Customer Recency Distribution :**
+**Customer Recency, Frequency, and Monetary Distribution :**
 
-<img src="https://github.com/bahategar/Baha_portofolio/blob/main/images/P2-fig2.png?raw=true">
-
-**Customer Frequency Distribution :**
-
-<img src="https://github.com/bahategar/Baha_portofolio/blob/main/images/P2-fig3.png?raw=true">
-
-**Customer Monetary Distribution :**
-
-<img src="https://github.com/bahategar/Baha_portofolio/blob/main/images/P2-fig4.png?raw=true">
+<img src="https://github.com/bahategar/Baha_portofolio/blob/main/images/P2-fig6.png?raw=true">
 
 **Result Customer Segmentation :**
 
 <img src="https://github.com/bahategar/Baha_portofolio/blob/main/images/P2-fig5.png?raw=true">
 
 
+# [Project 3: Customer Churn Prediction](https://github.com/bahategar/DigitalSkola-Churn-Data-Prediction-2020)
+* Wrangling dataset that contain more than 4,000 entries
+* Doing exploratory data analysis
+* Building Random Forest Classifier machine learning model
+
+**Result Machine Learning Model:**
+
+<img src="https://github.com/bahategar/Baha_portofolio/blob/main/images/P3-fig2.png?raw=true">
