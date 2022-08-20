@@ -15,4 +15,32 @@ My portofolio
 **Top selling product :**
 
 <img src="https://github.com/bahategar/Baha_portofolio/blob/main/images/P1-fig2.png?raw=true">
-# Project 2: 
+
+
+# [Project 2: Customer Segmentation with RFM Analysis](https://github.com/bahategar/DigitalSkola-RFMAnalysis-OnlineRetail-)
+* Wrangling dataset that contain more than 540,000 entries
+* Creating weekly purhcasement trend
+* Doing RFM analysis
+* Building KMeans clustering model for solve problem
+
+**Weekly Purchasement Trend :**
+
+<img src="https://github.com/bahategar/Baha_portofolio/blob/main/images/P2-fig1.png?raw=true">
+
+**Customer Recency Distribution :**
+
+<img src="https://github.com/bahategar/Baha_portofolio/blob/main/images/P2-fig2.png?raw=true">
+
+**Customer Frequency Distribution :**
+
+<img src="https://github.com/bahategar/Baha_portofolio/blob/main/images/P2-fig3.png?raw=true">
+
+**Customer Monetary Distribution :**
+
+<img src="https://github.com/bahategar/Baha_portofolio/blob/main/images/P2-fig4.png?raw=true">
+
+**Result Customer Segmentation :**
+
+<img src="https://github.com/bahategar/Baha_portofolio/blob/main/images/P2-fig5.png?raw=true">
+
+
