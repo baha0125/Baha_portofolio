@@ -1,6 +1,17 @@
 # Baha's Portofolio
 
-# [Project 1: Data Analysis Medical Drugs Transaction](https://github.com/bahategar/WQU-Applied-DS1-dw-project-based)
+# [Project 1: Forecasting Electricity Production](https://github.com/bahategar/Forecasting-Electricity-Production)
+* Handling data production with about 400 entries
+*	Creating monthly production trend
+*	Building AutoRegression model for forecasting production of electricity
+
+**Monthly Production Trend:**
+<img src="https://github.com/bahategar/Baha_portofolio/blob/main/images/P4-fig1.png?raw=true">
+
+**Forecasting Result:**
+<img src="https://github.com/bahategar/Baha_portofolio/blob/main/images/P4-fig2.png?raw=true">
+
+# [Project 2: Data Analysis Medical Drugs Transaction](https://github.com/bahategar/WQU-Applied-DS1-dw-project-based)
 * Wrangling dataset that contain more than 970,000 entries
 * Determine products with high growth rate
 * Finding practices that prescribe an unusually high amount of opioids
@@ -17,7 +28,7 @@
 
 
 
-# [Project 2: Customer Segmentation with RFM Analysis](https://github.com/bahategar/DigitalSkola-RFMAnalysis-OnlineRetail-)
+# [Project 3: Customer Segmentation with RFM Analysis](https://github.com/bahategar/DigitalSkola-RFMAnalysis-OnlineRetail-)
 * Wrangling dataset that contain more than 540,000 entries
 * Creating weekly purhcasement trend
 * Doing RFM analysis
@@ -36,7 +47,7 @@
 <img src="https://github.com/bahategar/Baha_portofolio/blob/main/images/P2-fig5.png?raw=true">
 
 
-# [Project 3: Customer Churn Prediction](https://github.com/bahategar/DigitalSkola-Churn-Data-Prediction-2020)
+# [Project 4: Customer Churn Prediction](https://github.com/bahategar/DigitalSkola-Churn-Data-Prediction-2020)
 * Wrangling dataset that contain more than 4,000 entries
 * Doing exploratory data analysis
 * Building Random Forest Classifier machine learning model
